@@ -18,7 +18,7 @@ const Lp = () => {
          </div>        
          </div>
     
-        );
+        )
 }
  
 export default Lp;
